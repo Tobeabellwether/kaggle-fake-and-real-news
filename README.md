@@ -1,1 +1,1 @@
-# kaggle-fake-and-real-news
+# Kaggle: Fake and Real News
